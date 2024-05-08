@@ -1,4 +1,6 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://accura-find.com/assets/img/logo/accurafind-logo.png" height="200"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank">![Uploading image.png…]()
+</a></p>
+![ss](https://github.com/JestherCostinar/accurafind/assets/56688615/05451359-95c9-483f-8045-506451c6d960)
 
 
 # Accurafind
